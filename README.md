@@ -1,4 +1,4 @@
-Analysis of community delimitation models and settlement patterns in Chibcha chiefdoms in the Intermediate Area
+Analysis of community delimitation models and settlement patterns in Chibcha chiefdoms in the Intermediate Area (under review)
 --------------------------------------------------------------
 
 This repository contains code and data for a multi-method, multi-scale protocol for delimiting communities in archaeological settlement patterns. It integrates (1) IDW for density surfaces, (2) HDBSCAN on time-cost distances (topographic friction), and (3) k-NN networks with Leiden community detection. The protocol is applied comparatively to four pre-Hispanic sequences (Colombia and Panama): Río Frío, Fúquene, Parita, and Río Tonosí.
