@@ -12,9 +12,9 @@ Repository Structure:
      • POLYGON_FUQUENE_UTM_polygons.shp
      • SITES_FUQUENE_LATE_MUISCA_UTM_polygons.shp
      • POLYGON_PARITA_UTM_polygons.shp
-     • SITES_PARITA_LATE_MUISCA_UTM_polygons.shp
+     • SITES_PARITA_LATE_HATILLO_UTM_polygons.shp
      • POLYGON_TONOSI_UTM_polygons.shp
-     • SITES_TONOSI_LATE_MUISCA_UTM_polygons.shp
+     • SITES_TONOSI_LATE_BIJAGUALES_UTM_polygons.shp
 
 2. R Code Files:
    - The main R script (or R Markdown file) contains the code to:
