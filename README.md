@@ -25,7 +25,7 @@ Repository Structure:
 
 Software and Key Package Versions:
 ----------------------------------
-- R version: [R 4.5.1]
+- R version: [R 4.5.2]
 - Key R packages used in this project include (with version numbers):
     •  boot: version 1.3-31
     •  car: version 3.1-3
