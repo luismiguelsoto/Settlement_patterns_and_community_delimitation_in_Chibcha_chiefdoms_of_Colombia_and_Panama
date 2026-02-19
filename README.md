@@ -6,7 +6,7 @@ This repository contains code and data for a multi-method, multi-scale protocol 
 Repository Structure:
 ----------------------------------
 1. GIS:
-   - Contains the spatial data files (shapefile components and raster files) defining the study area:
+   - Contains the spatial data files (shapefiles) defining the study area:
      • POLYGON_RIO_FRIO_UTM_Polygons.shp
      • SITES_RIO_FRIO_TAIRONA_PERIOD_UTM_polygons.shp
      • POLYGON_FUQUENE_UTM_polygons.shp
